@@ -1,0 +1,39 @@
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]nyCPU/
+
+# NuGet
+packages/
+*.nupkg
+project.assets.json
+project.nuget.cache
+
+# Logs and local files
+*.log
+*.tmp
+*.cache
+
+# Binary artifacts
+*.exe
+*.dll
+*.pdb
+*.msi
+*.zip
+*.rar
+
+# OS files
+Thumbs.db
+.DS_Store
